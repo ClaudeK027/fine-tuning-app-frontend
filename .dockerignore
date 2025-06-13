@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Dépendances locales
+/node_modules
+
+# Dossier de build de production
+/dist
+/build
+
+# Fichiers de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers d'environnement locaux
+.env.local
+.env.*.local
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Fichiers système d'exploitation
+.DS_Store
+Thumbs.db 
